@@ -1,2 +1,2 @@
 # my1projekt
-to try))
+this is my first attempt to create a project on GitHub))
